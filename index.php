@@ -61,7 +61,7 @@ require('ip.php');
 </head>
 <body>
 	<div class="container text-center">
-		<h1>IP ADDRESS FINDER</h1>	
+		<h1 class="display-1">IP ADDRESS FINDER</h1>	
 		<div class="well">
 		<h3>What is my Ip Address ?</h3>
 		<p>Find your real public ip address</p>
